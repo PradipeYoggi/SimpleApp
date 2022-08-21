@@ -1,0 +1,10 @@
+.navbar-brand {
+    color:white;
+}
+.active {
+    font-size: large;
+}
+div {
+    margin: 2px;
+    padding: 2px;
+}
